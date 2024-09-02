@@ -1,0 +1,563 @@
+-->Log::create(char *name): File loki.log created
+Timer::create(): Timer instance created
+Sound::create(): Sound instance created
+TextureManager::create(): TextureManager instance created
+EffectManager::create(): EffectManager instance created
+FontManager::create(): FontManager instance created
+EffectManager::create(): ObjectManager instance created
+ObjectManager::addObject(): File "resources\ball.t3d" loaded and added as object "ball.t3d"
+TextureManager::addTexture(): File "resources\brainstorm1.png" loaded and added as texture "brainstorm1.png"
+TextureManager::addTexture(): File "resources\brainstorm2.png" loaded and added as texture "brainstorm2.png"
+TextureManager::addTexture(): File "resources\broadway_outlined.png" loaded and added as texture "broadway_outlined.png"
+TextureManager::addTexture(): File "resources\circle.jpg" loaded and added as texture "circle.jpg"
+TextureManager::addTexture(): File "resources\cityscape_1024.png" loaded and added as texture "cityscape_1024.png"
+TextureManager::addTexture(): File "resources\neonrain.jpg" loaded and added as texture "neonrain.jpg"
+TextureManager::addTexture(): File "resources\noise1.jpg" loaded and added as texture "noise1.jpg"
+TextureManager::addTexture(): File "resources\noise2.jpg" loaded and added as texture "noise2.jpg"
+TextureManager::addTexture(): File "resources\noise3.jpg" loaded and added as texture "noise3.jpg"
+TextureManager::addTexture(): File "resources\rain_tex.png" loaded and added as texture "rain_tex.png"
+TextureManager::addTexture(): File "resources\reflection.jpg" loaded and added as texture "reflection.jpg"
+TextureManager::addTexture(): File "resources\smoke1.jpg" loaded and added as texture "smoke1.jpg"
+TextureManager::addTexture(): File "resources\smoke2.jpg" loaded and added as texture "smoke2.jpg"
+TextureManager::addTexture(): File "resources\smoke3.jpg" loaded and added as texture "smoke3.jpg"
+TextureManager::addTexture(): File "resources\smoke4.jpg" loaded and added as texture "smoke4.jpg"
+ObjectManager::addObject(): File "resources\spike.t3d" loaded and added as object "spike.t3d"
+TextureManager::addTexture(): File "resources\texture_05.jpg" loaded and added as texture "texture_05.jpg"
+TextureManager::addTexture(): File "resources\texture_11_orig.jpg" loaded and added as texture "texture_11_orig.jpg"
+TextureManager::addTexture(): File "resources\title.png" loaded and added as texture "title.png"
+TextureManager::addTexture(): File "resources\traction1.png" loaded and added as texture "traction1.png"
+TextureManager::addTexture(): File "resources\traction2.png" loaded and added as texture "traction2.png"
+TextureManager::addTexture(): RenderToTexture loaded and added as texture "render512_0"
+TextureManager::addTexture(): RenderToTexture loaded and added as texture "render512_1"
+TextureManager::uploadTextures(): Uploading textures
+Your graphics cards vendor is ATI Technologies Inc.
+Renderer RADEON X600/X550 Series x86/MMX/3DNow!/SSE2
+Version 2.0.5949 WinXP Release
+Debug: Using depth t=0  (33189) texture
+ShaderHolder::init() : Initializing shaders
+ShaderHolder::init() : Shaders created
+EffectManager::addEffect(): Effect "alku" added
+EffectManager::addEffect(): Effect "sil" added
+EffectManager::addEffect(): Effect "laser" added
+EffectManager::addEffect(): Effect "laser" added
+EffectManager::addEffect(): Effect "laser" added
+EffectManager::addEffect(): Effect "lattia" added
+EffectManager::addEffect(): Effect "miami vice" added
+EffectManager::addEffect(): Effect "neonpisarat" added
+EffectManager::addEffect(): Effect "neonpisarat" added
+EffectManager::addEffect(): Effect "rekursio" added
+EffectManager::addEffect(): Effect "sauhu" added
+EffectManager::addEffect(): Effect "pikkuspiraalit" added
+EffectManager::addEffect(): Effect "laser" added
+EffectManager::addEffect(): Effect "sauhu" added
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+kulma = 1.478 dir.y = -0.092. suhde = -15.983
+kulma = 1.518 dir.y = -0.052. suhde = -28.979
+kulma = 1.519 dir.y = -0.052. suhde = -29.140
+kulma = 1.519 dir.y = -0.052. suhde = -29.140
+kulma = 1.519 dir.y = -0.052. suhde = -29.280
+kulma = 1.519 dir.y = -0.052. suhde = -29.387
+kulma = 1.519 dir.y = -0.052. suhde = -29.464
+kulma = 1.519 dir.y = -0.051. suhde = -29.513
+kulma = 1.519 dir.y = -0.051. suhde = -29.513
+kulma = 1.519 dir.y = -0.051. suhde = -29.526
+kulma = 1.519 dir.y = -0.051. suhde = -29.507
+kulma = 1.519 dir.y = -0.052. suhde = -29.449
+kulma = 1.519 dir.y = -0.052. suhde = -29.449
+kulma = 1.519 dir.y = -0.052. suhde = -29.359
+kulma = 1.519 dir.y = -0.052. suhde = -29.234
+kulma = 1.519 dir.y = -0.052. suhde = -29.065
+kulma = 1.518 dir.y = -0.053. suhde = -28.867
+kulma = 1.518 dir.y = -0.053. suhde = -28.867
+kulma = 1.518 dir.y = -0.053. suhde = -28.635
+kulma = 1.517 dir.y = -0.054. suhde = -28.355
+kulma = 1.517 dir.y = -0.054. suhde = -28.053
+kulma = 1.517 dir.y = -0.054. suhde = -28.053
+kulma = 1.516 dir.y = -0.055. suhde = -27.720
+kulma = 1.515 dir.y = -0.055. suhde = -27.339
+kulma = 1.515 dir.y = -0.056. suhde = -26.946
+kulma = 1.514 dir.y = -0.057. suhde = -26.526
+kulma = 1.514 dir.y = -0.057. suhde = -26.526
+kulma = 1.513 dir.y = -0.058. suhde = -26.061
+kulma = 1.512 dir.y = -0.059. suhde = -25.593
+kulma = 1.511 dir.y = -0.060. suhde = -25.106
+kulma = 1.511 dir.y = -0.060. suhde = -25.106
+kulma = 1.509 dir.y = -0.061. suhde = -24.578
+kulma = 1.508 dir.y = -0.063. suhde = -24.058
+kulma = 1.507 dir.y = -0.064. suhde = -23.526
+kulma = 1.507 dir.y = -0.064. suhde = -23.526
+kulma = 1.505 dir.y = -0.066. suhde = -22.957
+kulma = 1.504 dir.y = -0.067. suhde = -22.407
+kulma = 1.502 dir.y = -0.069. suhde = -21.852
+kulma = 1.500 dir.y = -0.071. suhde = -21.267
+kulma = 1.500 dir.y = -0.071. suhde = -21.267
+kulma = 1.498 dir.y = -0.072. suhde = -20.707
+kulma = 1.496 dir.y = -0.074. suhde = -20.148
+kulma = 1.494 dir.y = -0.076. suhde = -19.567
+kulma = 1.494 dir.y = -0.076. suhde = -19.567
+kulma = 1.308 dir.y = -0.260. suhde = -5.034
+kulma = 1.069 dir.y = -0.481. suhde = -2.221
+kulma = 0.798 dir.y = -0.698. suhde = -1.144
+kulma = 0.682 dir.y = -0.777. suhde = -0.878
+kulma = 0.810 dir.y = -0.690. suhde = -1.175
+kulma = 0.711 dir.y = -0.758. suhde = -0.938
+kulma = 0.548 dir.y = -0.854. suhde = -0.642
+kulma = 0.758 dir.y = -0.726. suhde = -1.044
+kulma = 1.069 dir.y = -0.481. suhde = -2.225
+kulma = 1.255 dir.y = -0.310. suhde = -4.046
+kulma = 1.309 dir.y = -0.259. suhde = -5.051
+kulma = 1.309 dir.y = -0.259. suhde = -5.057
+kulma = 1.309 dir.y = -0.259. suhde = -5.057
+kulma = 1.309 dir.y = -0.259. suhde = -5.063
+kulma = 1.309 dir.y = -0.258. suhde = -5.068
+kulma = 1.310 dir.y = -0.258. suhde = -5.073
+kulma = 1.310 dir.y = -0.258. suhde = -5.077
+kulma = 1.310 dir.y = -0.258. suhde = -5.077
+kulma = 1.310 dir.y = -0.258. suhde = -5.081
+kulma = 1.310 dir.y = -0.258. suhde = -5.085
+kulma = 1.310 dir.y = -0.258. suhde = -5.088
+kulma = 1.310 dir.y = -0.257. suhde = -5.091
+kulma = 1.311 dir.y = -0.257. suhde = -5.093
+kulma = 1.311 dir.y = -0.257. suhde = -5.095
+kulma = 1.311 dir.y = -0.257. suhde = -5.095
+kulma = 1.311 dir.y = -0.257. suhde = -5.096
+kulma = 1.311 dir.y = -0.257. suhde = -5.098
+kulma = 1.311 dir.y = -0.257. suhde = -5.098
+kulma = 1.311 dir.y = -0.257. suhde = -5.098
+kulma = 1.311 dir.y = -0.257. suhde = -5.099
+kulma = 1.311 dir.y = -0.257. suhde = -5.099
+kulma = 1.311 dir.y = -0.257. suhde = -5.099
+kulma = 1.311 dir.y = -0.257. suhde = -5.099
+kulma = 1.311 dir.y = -0.257. suhde = -5.099
+kulma = 1.311 dir.y = -0.257. suhde = -5.098
+kulma = 1.311 dir.y = -0.257. suhde = -5.097
+kulma = 1.311 dir.y = -0.257. suhde = -5.096
+kulma = 1.311 dir.y = -0.257. suhde = -5.096
+kulma = 1.311 dir.y = -0.257. suhde = -5.095
+kulma = 1.311 dir.y = -0.257. suhde = -5.094
+kulma = 1.311 dir.y = -0.257. suhde = -5.092
+kulma = 1.311 dir.y = -0.257. suhde = -5.092
+kulma = 1.310 dir.y = -0.257. suhde = -5.091
+kulma = 1.310 dir.y = -0.257. suhde = -5.089
+kulma = 1.310 dir.y = -0.258. suhde = -5.087
+kulma = 1.310 dir.y = -0.258. suhde = -5.085
+kulma = 1.310 dir.y = -0.258. suhde = -5.085
+kulma = 1.310 dir.y = -0.258. suhde = -5.083
+kulma = 1.310 dir.y = -0.258. suhde = -5.082
+kulma = 1.310 dir.y = -0.258. suhde = -5.080
+kulma = 1.310 dir.y = -0.258. suhde = -5.080
+kulma = 1.345 dir.y = -0.224. suhde = -6.009
+kulma = 1.417 dir.y = -0.153. suhde = -9.232
+kulma = 1.432 dir.y = -0.138. suhde = -10.350
+kulma = 1.454 dir.y = -0.117. suhde = -12.458
+kulma = 1.601 dir.y = 0.030. suhde = 53.147
+kulma = 1.762 dir.y = 0.190. suhde = 9.261
+kulma = 1.651 dir.y = 0.080. suhde = 20.723
+kulma = 1.210 dir.y = -0.353. suhde = -3.431
+kulma = 1.048 dir.y = -0.499. suhde = -2.102
+kulma = 0.963 dir.y = -0.571. suhde = -1.686
+kulma = 0.792 dir.y = -0.702. suhde = -1.128
+kulma = 0.758 dir.y = -0.726. suhde = -1.045
+kulma = 1.088 dir.y = -0.464. suhde = -2.344
+kulma = 1.238 dir.y = -0.326. suhde = -3.793
+kulma = 1.240 dir.y = -0.325. suhde = -3.814
+kulma = 1.241 dir.y = -0.324. suhde = -3.835
+kulma = 1.241 dir.y = -0.324. suhde = -3.835
+kulma = 1.243 dir.y = -0.322. suhde = -3.854
+kulma = 1.243 dir.y = -0.322. suhde = -3.854
+kulma = 1.244 dir.y = -0.321. suhde = -3.873
+kulma = 1.245 dir.y = -0.320. suhde = -3.892
+kulma = 1.246 dir.y = -0.319. suhde = -3.910
+kulma = 1.248 dir.y = -0.318. suhde = -3.927
+kulma = 1.249 dir.y = -0.317. suhde = -3.944
+kulma = 1.250 dir.y = -0.316. suhde = -3.960
+kulma = 1.250 dir.y = -0.316. suhde = -3.960
+kulma = 1.251 dir.y = -0.315. suhde = -3.976
+kulma = 1.252 dir.y = -0.314. suhde = -3.991
+kulma = 1.253 dir.y = -0.313. suhde = -4.005
+kulma = 1.253 dir.y = -0.313. suhde = -4.005
+kulma = 1.254 dir.y = -0.312. suhde = -4.018
+kulma = 1.254 dir.y = -0.311. suhde = -4.032
+kulma = 1.255 dir.y = -0.310. suhde = -4.046
+kulma = 1.256 dir.y = -0.309. suhde = -4.059
+kulma = 1.256 dir.y = -0.309. suhde = -4.059
+kulma = 1.302 dir.y = -0.265. suhde = -4.912
+kulma = 1.372 dir.y = -0.197. suhde = -6.958
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+kulma = 0.300 dir.y = -0.955. suhde = -0.314
+trying to render a mesh VBO textures without texture buffer initialized
+trying to render a mesh VBO normals without normal buffer initialized
+kulma = 0.626 dir.y = -0.810. suhde = -0.773
+kulma = 0.695 dir.y = -0.768. suhde = -0.906
+kulma = 0.696 dir.y = -0.768. suhde = -0.906
+kulma = 0.750 dir.y = -0.731. suhde = -1.026
+kulma = 0.871 dir.y = -0.644. suhde = -1.352
+kulma = 0.999 dir.y = -0.541. suhde = -1.847
+kulma = 1.010 dir.y = -0.532. suhde = -1.900
+kulma = 0.875 dir.y = -0.641. suhde = -1.366
+kulma = 0.754 dir.y = -0.729. suhde = -1.035
+kulma = 0.655 dir.y = -0.793. suhde = -0.826
+kulma = 0.569 dir.y = -0.842. suhde = -0.676
+kulma = 0.542 dir.y = -0.857. suhde = -0.633
+kulma = 0.570 dir.y = -0.842. suhde = -0.677
+kulma = 0.760 dir.y = -0.725. suhde = -1.050
+kulma = 0.861 dir.y = -0.652. suhde = -1.320
+kulma = 0.861 dir.y = -0.652. suhde = -1.321
+kulma = 0.861 dir.y = -0.652. suhde = -1.321
+kulma = 0.862 dir.y = -0.651. suhde = -1.323
+kulma = 0.862 dir.y = -0.651. suhde = -1.325
+kulma = 0.862 dir.y = -0.651. suhde = -1.325
+kulma = 0.863 dir.y = -0.650. suhde = -1.327
+kulma = 0.864 dir.y = -0.650. suhde = -1.330
+kulma = 0.865 dir.y = -0.649. suhde = -1.333
+kulma = 0.866 dir.y = -0.648. suhde = -1.336
+kulma = 0.866 dir.y = -0.648. suhde = -1.336
+kulma = 0.867 dir.y = -0.647. suhde = -1.340
+kulma = 0.869 dir.y = -0.646. suhde = -1.345
+kulma = 0.870 dir.y = -0.645. suhde = -1.350
+kulma = 0.870 dir.y = -0.645. suhde = -1.350
+kulma = 0.872 dir.y = -0.643. suhde = -1.355
+kulma = 0.874 dir.y = -0.642. suhde = -1.361
+kulma = 0.876 dir.y = -0.640. suhde = -1.368
+kulma = 0.878 dir.y = -0.639. suhde = -1.375
+kulma = 0.878 dir.y = -0.639. suhde = -1.375
+kulma = 0.881 dir.y = -0.636. suhde = -1.384
+kulma = 0.884 dir.y = -0.634. suhde = -1.393
+kulma = 0.887 dir.y = -0.632. suhde = -1.402
+kulma = 0.887 dir.y = -0.632. suhde = -1.402
+kulma = 0.890 dir.y = -0.630. suhde = -1.413
+kulma = 0.893 dir.y = -0.627. suhde = -1.425
+kulma = 0.897 dir.y = -0.624. suhde = -1.437
+kulma = 1.179 dir.y = -0.382. suhde = -3.088
+kulma = 1.249 dir.y = -0.316. suhde = -3.948
+kulma = 0.908 dir.y = -0.615. suhde = -1.475
+kulma = 0.492 dir.y = -0.881. suhde = -0.558
+kulma = 0.999 dir.y = -0.541. suhde = -1.844
+kulma = 1.340 dir.y = -0.229. suhde = -5.848
+kulma = 1.488 dir.y = -0.083. suhde = -17.940
+kulma = 1.528 dir.y = -0.043. suhde = -35.867
+kulma = 1.535 dir.y = -0.036. suhde = -42.599
+kulma = 1.510 dir.y = -0.061. suhde = -24.904
+kulma = 1.438 dir.y = -0.132. suhde = -10.867
+kulma = 1.295 dir.y = -0.272. suhde = -4.753
+kulma = 0.959 dir.y = -0.574. suhde = -1.670
+kulma = 0.479 dir.y = -0.887. suhde = -0.540
+kulma = 0.619 dir.y = -0.815. suhde = -0.759
+kulma = 0.685 dir.y = -0.774. suhde = -0.885
+kulma = 0.684 dir.y = -0.775. suhde = -0.883
+ShaderHolder::deinit() : Shaders released
+ObjectManager::release(): Instance deleted
+FontManager::release(): Instance deleted
+EffectManager::release(): Instance deleted
+TextureManager::release(): Instance deleted
+Sound::close(): Instance deleted
+Timer::release(): Instance deleted
+
+-->Log::free() Instance deleted.

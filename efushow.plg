@@ -1,0 +1,74 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: efushow - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\MARTTI~1\LOCALS~1\Temp\RSP32.tmp" with contents
+[
+/nologo /ML /W3 /GX /O2 /I "D:\koodi\cg\include" /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Release/efushow.pch" /YX /Fo"Release/" /Fd"Release/" /FD /c 
+"D:\dev\fascination2\frametimer.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\MARTTI~1\LOCALS~1\Temp\RSP32.tmp" 
+Creating temporary file "C:\DOCUME~1\MARTTI~1\LOCALS~1\Temp\RSP33.tmp" with contents
+[
+cg.lib cgGL.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib winmm.lib /nologo /subsystem:windows /incremental:no /pdb:"Release/efushow.pdb" /machine:I386 /out:"Release/efushow.exe" /libpath:"D:\koodi\cg\lib" 
+.\Release\alku.obj
+.\Release\frustumtesti.obj
+.\Release\kareet.obj
+.\Release\kierre.obj
+.\Release\kuutio.obj
+.\Release\laser.obj
+.\Release\loppu.obj
+.\Release\miami.obj
+.\Release\nauhat.obj
+.\Release\neonsade.obj
+.\Release\noise1.obj
+.\Release\pikkuspiraalit.obj
+.\Release\psyko.obj
+.\Release\rekursio.obj
+.\Release\sade.obj
+.\Release\sauhu.obj
+.\Release\siluetti.obj
+.\Release\starfield.obj
+.\Release\tanssilattia.obj
+.\Release\analyzer.obj
+.\Release\bezier.obj
+.\Release\bpm.obj
+.\Release\camera.obj
+.\Release\catmullrom.obj
+.\Release\config.obj
+.\Release\cubemap.obj
+.\Release\ext.obj
+.\Release\frametimer.obj
+.\Release\frustumculler.obj
+.\Release\lista2.obj
+.\Release\main.obj
+.\Release\mathematics.obj
+.\Release\matrix4.obj
+.\Release\mesh.obj
+.\Release\meshfactory.obj
+.\Release\mmgr.obj
+.\Release\postproc.obj
+.\Release\primitives.obj
+.\Release\shader.obj
+.\Release\trigger.obj
+.\Release\writer.obj
+.\Release\resource.res
+]
+Creating command line "link.exe @C:\DOCUME~1\MARTTI~1\LOCALS~1\Temp\RSP33.tmp"
+<h3>Output Window</h3>
+Compiling...
+frametimer.cpp
+Linking...
+   Creating library Release/efushow.lib and object Release/efushow.exp
+
+
+
+<h3>Results</h3>
+efushow.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
